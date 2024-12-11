@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "type": "Remote Internship",
+      "name": "SalesForce Internship",
+      "image":"./Images/ExperienceImages/Experience1/salesforce.webp",
+      "domain": "Developer",
+      "link": "https://www.salesforce.com/in/",
+      "certificate": "./pdf/salesforce_internship (1).pdf",
+      "description": "Developed scalable Salesforce applications and customized CRM solutions to enhance business workflows and customer engagement.",
+      "start": "January, 2024",
+      "end": "March, 2024"
+    }
+  ]
+}

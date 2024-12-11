@@ -1,0 +1,27 @@
+{
+  "name": {
+    "firstName":"Sreetama",
+    "lastName":"Mukherjee"
+  },
+  "email_gmail": "sreetamamukherjee0@gmail.com",
+  "email_KIIT": "21051605@kiit.ac.in",
+  "resume": "./pdf/Sreetama Mukherjee - Resume.pdf",
+  "home": "Kolkata, West Bengal",
+  "year": {
+    "$date":"1970-01-01T00:00:00.000+00:00"
+  },
+  "about1":"Hello, I am Sreetama Mukherjee currently in 7th Semester ( ",
+  "about2":"), pursuing my BTech in Computer Science from KIIT University, Bhubaneshwar, Odisha.",
+  "about3": [
+    "I am an aspiring web developer with a strong passion for software development and a growing portfolio of experience. I have done Salesforce Developer Certification Course from SmartBridge (AICTE Approved). Previously I had completed a remote internship with CODSoft, where I gained hands-on experience in web development, honing my skills in building dynamic and user-friendly websites. My goal is to continually improve and contribute to innovative projects, staying up to date with the latest technologies and trends in the industry. I am committed to becoming a professional in the field and am eager to leverage my knowledge to create impactful digital solutions.",
+    "Outside of work, I have a deep love for Korean culture, especially K-pop and K-dramas, which fuel my creativity and provide endless inspiration. I enjoy spending time with friends, exploring different cuisines, and relaxing at the beach whenever I can. These hobbies balance my professional ambitions, allowing me to stay refreshed and energized."
+  ],
+  "display_image": "./Images/MyImages/Sreetama1.png",
+  "links": {
+    "link_instagram": "https://www.instagram.com/celest_iial/",
+    "link_leetcode": "https://leetcode.com/u/sreetama18/",
+    "link_linkedin": "https://www.linkedin.com/in/sreetama-mukherjee-44a50a21a/",
+    "link_github": "https://github.com/sreee18",
+    "link_spotify": "https://open.spotify.com/user/yuoq7cuk3c7hsthpjy6bwdlw1"
+  }
+}

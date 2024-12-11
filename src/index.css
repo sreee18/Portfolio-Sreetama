@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Averia+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Scrollbar modification */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background-color: rgb(241, 80, 40);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background-color: rgb(71, 22, 123);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgb(89, 0, 137);
+}
+
+/* for background images */
+.scrolling-images {
+  display: flex;
+  transition: transform 1s linear; /* Smooth transition */
+}
+
+.scrolling-images img {
+  flex-shrink: 0;
+  height: 100vh; /* Ensures each image takes up the full viewport height */
+  width: auto; /* Maintains aspect ratio */
+}

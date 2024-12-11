@@ -1,0 +1,16 @@
+{
+  "skills" : [
+    ["C++","./Images/SkillImages/img_cpp.png"],
+    ["C","./Images/SkillImages/img_c.png"],
+    ["Python","./Images/SkillImages/img_python.png"],
+    ["Java","./Images/SkillImages/img_java.png"],
+    ["HTML5","./Images/SkillImages/img_html.png"],
+    ["CSS3","./Images/SkillImages/img_css.png"],
+    ["JavaScript","./Images/SkillImages/img_js.png"],
+    ["ReactJS","./Images/SkillImages/img_react.png"],
+    ["Github","./Images/SkillImages/img_github.png"],
+    ["My SQL","./Images/SkillImages/img_mysql.png"],
+    ["Powerpoint","./Images/SkillImages/img_msppt.png"],
+    ["MS Word","./Images/SkillImages/img_msword.png"]
+  ]
+}

@@ -1,0 +1,36 @@
+{
+	"Projects": [
+		{
+			"id": 1,
+			"title": "My Personal Web Portfolio",
+			"domain":"Web Development",
+			"link": "https://github.com/sreee18/Portfolio-sreetama",
+			"website": "https://sreetama.netlify.app/",
+			"description_short": "A personal portfolio website made with React Vite using TailwindCss. My Personal and professional details like skills, education, projects, experiences are added here. Hosted on NETLIFY",
+			"images": [
+				"./Images/ProjectImages/project2_portfolio/7.png"
+			],
+			"thumbnail": "./Images/ProjectImages/project2_portfolio/7.png"
+		},
+		{
+			"id": 2,
+			"title": "Traffic Sense System using ML",
+			"domain":"Machine Learning",
+			"description_short": "Traffic Sense System using ML",
+			"images": [
+				"./Images/ProjectImages/project1/6.jpeg"
+			],
+			"thumbnail": "./Images/ProjectImages/project1/6.jpeg"
+		},
+		{
+			"id": 3,
+			"title": "Expense Tracker using React",
+			"domain":"Web Development",
+			"description_short": "Expense Tracker using React,HTML,CSS",
+			"images": [
+				"./Images/ProjectImages/project1/abc8.png"
+			],
+			"thumbnail": "./Images/ProjectImages/project1/abc8.png"
+		}
+	]
+}
